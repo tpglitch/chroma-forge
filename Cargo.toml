@@ -5,7 +5,7 @@ edition = "2024"
 description = "A comprehensive color conversion library for Rust"
 license = "MIT"
 repository = "https://github.com/tpglitch/chroma-forge"
-keywords = ["color", "rgb", "hex", "hsl", "cmyk", "conversion"]
+keywords = ["color", "rgb", "hex", "hsl", "conversion"]
 categories = ["graphics", "multimedia"]
 
 [dependencies]
