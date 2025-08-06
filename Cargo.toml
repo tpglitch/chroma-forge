@@ -1,0 +1,11 @@
+[package]
+name = "chroma-forge"
+version = "1.0.0"
+edition = "2024"
+description = "A comprehensive color conversion library for Rust"
+license = "MIT"
+repository = "https://github.com/tpglitch/chroma-forge"
+keywords = ["color", "rgb", "hex", "hsl", "cmyk", "conversion"]
+categories = ["graphics", "multimedia"]
+
+[dependencies]
